@@ -107,89 +107,108 @@ export const props = [
   },
 
   {
-    name: 'Roulette 2',
-    radius: 0.89,
-    pointerAngle: 90,
-    itemLabelRadius: 0.92,
-    itemLabelRadiusMax: 0.37,
-    itemLabelRotation: 0,
-    itemLabelAlign: AlignText.right,
-    itemLabelColors: ['#000'],
-    itemLabelBaselineOffset: -0.06,
-    itemLabelFont: 'Rubik',
-    itemBackgroundColors: ['#fbf8c4', '#e4f1aa', '#c0d26e', '#ff7d7d'],
-    rotationSpeedMax: 700,
-    rotationResistance: -110,
-    lineWidth: 0,
-    overlayImage: './img/example-1-overlay.svg',
-    borderWidth: 0,
+{
+    name: 'Roulette-2',
+    radius: 0.84,
+    itemLabelRadius: 0.93,
+    itemLabelRadiusMax: 0.35,
+    itemLabelRotation: 180,
+    itemLabelAlign: AlignText.left,
+    itemLabelColors: ['#fff'],
+    itemLabelBaselineOffset: -0.07,
+    itemLabelFont: 'Arial',
+    itemLabelFontSizeMax: 15,
+    itemBackgroundColors: ['#636A51', '#9AA184', '#867F7C', '#A9A19C', '#DBD5CD' ],
+    rotationSpeedMax: 500,
+    rotationResistance: -100,
+    lineWidth: 1,
+    lineColor: '#fff',
+    image: './img/bwa.svg',
+    overlayImage: './img/bwa-over.svg',
     items: [
       {
-        label: 'Japanese',
+        label: 'UELI',
       },
       {
-        label: 'Fish N Chips',
+        label: 'DORIS',
       },
       {
-        label: 'Sandwich',
+        label: 'MICHEL',
       },
       {
-        label: 'Sub Sandwich',
-        weight: 1.3,
+        label: 'CÉLINE',
       },
       {
-        label: 'Tacos / Mexican',
+        label: 'LUCIA',
       },
       {
-        label: 'Noodle Box',
+        label: 'CLARISSE',
       },
       {
-        label: 'BBQ Chicken',
+        label: 'VAINIUS',
       },
       {
-        label: 'Fried Chicken',
-        weight: 1.3,
+        label: 'GONÇALO',
       },
       {
-        label: 'Indian',
+        label: 'LAURIE',
       },
       {
-        label: 'Thai',
+        label: 'MARTIAL',
       },
       {
-        label: 'Juice Smoothie',
+        label: 'LISA',
       },
       {
-        label: 'Burgers',
-        weight: 1.3,
+        label: 'PAUL',
       },
       {
-        label: 'Souvlaki / Kebab',
+        label: 'JEAN',
       },
       {
-        label: 'Italian',
+        label: 'CLÉLIE',
       },
       {
-        label: 'Sushi',
+        label: 'FILIPE',
       },
       {
-        label: 'Subways',
-        weight: 1.3,
+        label: 'JULIE',
       },
       {
-        label: 'Pie / Bakery',
+        label: 'ROMAIN',
       },
       {
-        label: 'Chinese',
+        label: 'MARGOT',
       },
       {
-        label: 'Korean',
+        label: 'THIBAUD',
       },
       {
-        label: 'Pizza',
-        weight: 1.3,
+        label: 'SÉVERINE',
       },
-    ],
+      {
+        label: 'FLORINE',
+      },
+      {
+        label: 'URSULA',
+      },
+      {
+        label: 'CLÉA',
+      },
+      {
+        label: 'VALENTIN',
+      },
+      {
+        label: 'CLEMENS',
+      },
+      {
+        label: 'CLAIRE',
+      },
+      {
+        label: 'JUN',
+      },
+],
+
   },
 
 ];
