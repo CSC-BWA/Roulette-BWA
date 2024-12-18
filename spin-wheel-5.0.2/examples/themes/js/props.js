@@ -101,7 +101,7 @@ export const props = [
       },
       {
         label: 'JUN',
-      },
+      }
 ],
 
   },
@@ -204,7 +204,7 @@ export const props = [
       },
       {
         label: 'JUN',
-      },
+      }
 ],
 
   },
