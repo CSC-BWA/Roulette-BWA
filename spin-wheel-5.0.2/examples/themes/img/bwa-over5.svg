@@ -4,17 +4,14 @@
   <defs>
     <style>
       .st0 {
-        fill: #f04622;
+        fill: none;
       }
 
       .st1 {
-        fill: none;
-        stroke: #333;
-        stroke-miterlimit: 10;
-        stroke-width: .2px;
+        fill: #f04622;
       }
     </style>
   </defs>
-  <rect class="st1" width="42.5" height="42.5"/>
-  <path class="st0" d="M21.8,1.1l-.6-.4-.6.4.6,2.7s.6-2.7.6-2.7Z"/>
+  <rect class="st0" width="42.5" height="42.5"/>
+  <path class="st1" d="M21.8,2.9l-.6-.4-.6.4.6,2.7s.6-2.7.6-2.7Z"/>
 </svg>
