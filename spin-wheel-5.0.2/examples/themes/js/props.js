@@ -19,7 +19,7 @@ export const props = [
     lineWidth: 1,
     lineColor: '#fff',
     image: './img/bwa.svg',
-    overlayImage: './img/bwa-over.svg',
+    overlayImage: './img/bwa-over2.svg',
     items: [
       {
         label: 'UELI',
@@ -122,7 +122,7 @@ export const props = [
     lineWidth: 1,
     lineColor: '#fff',
     image: './img/bwa.svg',
-    overlayImage: './img/bwa-over.svg',
+    overlayImage: './img/bwa-over2.svg',
     items: [
       {
         label: 'UELI',
