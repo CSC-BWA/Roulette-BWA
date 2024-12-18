@@ -105,8 +105,6 @@ export const props = [
 ],
 
   },
-
-  {
 {
     name: 'Roulette-2',
     radius: 0.84,
