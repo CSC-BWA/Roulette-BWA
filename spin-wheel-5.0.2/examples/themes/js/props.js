@@ -34,12 +34,6 @@ export const props = [
         label: 'CÉLINE',
       },
       {
-        label: 'TEST',
-      },
-      {
-        label: 'TEST',
-      },
-      {
         label: 'LUCIA',
       },
       {
