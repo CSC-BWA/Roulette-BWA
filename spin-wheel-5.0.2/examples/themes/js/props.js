@@ -5,6 +5,8 @@ export const props = [
   {
     name: 'Roulette',
     radius: 0.84,
+    borderWidth: 1,
+    borderColor: '#FFFFFF',
     itemLabelRadius: 0.93,
     itemLabelRadiusMax: 0.35,
     itemLabelRotation: 180,
@@ -12,8 +14,8 @@ export const props = [
     itemLabelColors: ['#fff'],
     itemLabelBaselineOffset: -0.07,
     itemLabelFont: 'Arial',
-    itemLabelFontSizeMax: 15,
-    itemBackgroundColors: ['#636A51', '#9AA184', '#867F7C', '#A9A19C', '#DBD5CD' ],
+    itemLabelFontSizeMax: 12,
+    itemBackgroundColors: ['#9AA184', '#867F7C', '#A9A19C', '#636A51' ],
     rotationSpeedMax: 500,
     rotationResistance: -100,
     lineWidth: 1,
@@ -31,13 +33,19 @@ export const props = [
         label: 'MICHEL',
       },
       {
+        label: 'CAMBRIOLAGE!',
+      },
+      {
         label: 'CÉLINE',
       },
       {
-        label: 'LUCIA',
+        label: 'LUCÍA',
       },
       {
         label: 'CLARISSE',
+      },
+      {
+        label: 'BONUS 2',
       },
       {
         label: 'VAINIUS',
@@ -49,6 +57,9 @@ export const props = [
         label: 'LAURIE',
       },
       {
+        label: 'BONUS 3',
+      },
+      {
         label: 'MARTIAL',
       },
       {
@@ -56,6 +67,9 @@ export const props = [
       },
       {
         label: 'PAUL',
+      },
+      {
+        label: 'BONUS 4',
       },
       {
         label: 'JEAN',
@@ -67,6 +81,9 @@ export const props = [
         label: 'FILIPE',
       },
       {
+        label: 'BONUS 5',
+      },
+      {
         label: 'JULIE',
       },
       {
@@ -74,6 +91,9 @@ export const props = [
       },
       {
         label: 'MARGOT',
+      },
+      {
+        label: 'BONUS 6',
       },
       {
         label: 'THIBAUD',
@@ -85,6 +105,9 @@ export const props = [
         label: 'FLORINE',
       },
       {
+        label: 'BONUS 7',
+      },
+      {
         label: 'URSULA',
       },
       {
@@ -92,6 +115,9 @@ export const props = [
       },
       {
         label: 'VALENTIN',
+      },
+      {
+        label: 'BONUS 8',
       },
       {
         label: 'CLEMENS',
@@ -102,12 +128,17 @@ export const props = [
       {
         label: 'JUN',
       },
+      {
+        label: 'BONUS 9',
+      },
 ],
 
   },
 {
-    name: 'Roulette-2',
+    name: 'Magic 8-Ball',
     radius: 0.84,
+    borderWidth: 1,
+    borderColor: '#FFFFFF',
     itemLabelRadius: 0.93,
     itemLabelRadiusMax: 0.35,
     itemLabelRotation: 180,
@@ -115,8 +146,8 @@ export const props = [
     itemLabelColors: ['#fff'],
     itemLabelBaselineOffset: -0.07,
     itemLabelFont: 'Arial',
-    itemLabelFontSizeMax: 15,
-    itemBackgroundColors: ['#636A51', '#9AA184', '#867F7C', '#A9A19C', '#DBD5CD' ],
+    itemLabelFontSizeMax: 12,
+    itemBackgroundColors: ['#9AA184', '#867F7C', '#A9A19C', '#636A51' ],
     rotationSpeedMax: 500,
     rotationResistance: -100,
     lineWidth: 1,
