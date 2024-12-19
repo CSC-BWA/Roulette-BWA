@@ -66,12 +66,14 @@ select {
 }
 
 label {
-  text-align: center;
-  margin-right: 5px;
+  text-align: left;
+  display: table-cell;
+  margin-right: 10px;
 }
 
 button {
-  padding: 10px 20px;
+  padding: 10px 0px;
+  text-align: left;
   cursor: pointer;
   background: transparent;
   border: none !important;
