@@ -216,6 +216,6 @@ export const props = [
         label: 'Impossible',
       },
 ],
-  }
+  },
 
 ];
