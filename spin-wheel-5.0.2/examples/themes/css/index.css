@@ -52,8 +52,7 @@ body {
 
 .gui-wrapper > div {
   display: flex;
-  flex-direction: row;
-  gap: 10px;
+  flex-direction: column;
   align-items: flex-start;
 }
 
