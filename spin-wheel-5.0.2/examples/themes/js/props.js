@@ -45,7 +45,7 @@ export const props = [
         label: 'CLARISSE',
       },
       {
-        label: 'BONUS 2',
+        label: 'À DROITE!',
       },
       {
         label: 'VAINIUS',
@@ -57,7 +57,7 @@ export const props = [
         label: 'LAURIE',
       },
       {
-        label: 'BONUS 3',
+        label: 'À GAUCHE!',
       },
       {
         label: 'MARTIAL',
@@ -69,7 +69,7 @@ export const props = [
         label: 'PAUL',
       },
       {
-        label: 'BONUS 4',
+        label: 'CAMBRIOLAGE!',
       },
       {
         label: 'JEAN',
@@ -81,7 +81,7 @@ export const props = [
         label: 'FILIPE',
       },
       {
-        label: 'BONUS 5',
+        label: 'À DROITE!',
       },
       {
         label: 'JULIE',
@@ -93,7 +93,7 @@ export const props = [
         label: 'MARGOT',
       },
       {
-        label: 'BONUS 6',
+        label: 'À GAUCHE!',
       },
       {
         label: 'THIBAUD',
@@ -105,7 +105,7 @@ export const props = [
         label: 'FLORINE',
       },
       {
-        label: 'BONUS 7',
+        label: 'CAMBRIOLAGE!',
       },
       {
         label: 'URSULA',
@@ -117,7 +117,7 @@ export const props = [
         label: 'VALENTIN',
       },
       {
-        label: 'BONUS 8',
+        label: 'À DROITE!',
       },
       {
         label: 'CLEMENS',
@@ -129,7 +129,7 @@ export const props = [
         label: 'JUN',
       },
       {
-        label: 'BONUS 9',
+        label: 'À GAUCHE!',
       },
 ],
 
