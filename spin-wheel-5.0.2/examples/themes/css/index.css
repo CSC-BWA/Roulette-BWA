@@ -59,6 +59,7 @@ body {
 
 select {
   padding: 2px;
+  border: none;
   background-color: Black;
   color: grey;
   font-size: 10px;
@@ -72,7 +73,8 @@ label {
 button {
   padding: 10px 20px;
   cursor: pointer;
-  background-color: #000000;
+  background: transparent;
+  border: none !important;
   color: grey;
   font-size: 10px;
   margin-right: 10px;
