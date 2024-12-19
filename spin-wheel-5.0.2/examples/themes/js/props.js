@@ -162,10 +162,10 @@ export const props = [
         label: 'Essaye encore',
       },
       {
-        label: 'Pas d'avis',
+        label: 'Pas d\'avis',
       },
       {
-        label: 'C'est ton destin',
+        label: 'C\'est ton destin',
       },
       {
         label: 'Le sort en est jeté',
@@ -177,10 +177,10 @@ export const props = [
         label: 'Repose ta question',
       },
       {
-        label: 'D'après moi oui',
+        label: 'D\'après moi oui',
       },
       {
-        label: 'C'est certain',
+        label: 'C\'est certain',
       },
       {
         label: 'Oui absolument',
@@ -198,10 +198,10 @@ export const props = [
         label: 'Oui',
       },
       {
-        label: 'C'est bien parti',
+        label: 'C\'est bien parti',
       },
       {
-        label: 'C'est non',
+        label: 'C\'est non',
       },
       {
         label: 'Peu probable',
@@ -210,12 +210,12 @@ export const props = [
         label: 'Faut pas rêver',
       },
       {
-        label: 'N'y compte pas',
+        label: 'N\'y compte pas',
       },
       {
         label: 'Impossible',
       },
-  ],
+],
   }
 
 ];
