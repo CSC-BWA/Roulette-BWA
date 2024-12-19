@@ -14,7 +14,7 @@ export const props = [
     itemLabelColors: ['#fff'],
     itemLabelBaselineOffset: -0.07,
     itemLabelFont: 'Arial',
-    itemLabelFontSizeMax: 12,
+    itemLabelFontSizeMax: 10,
     itemBackgroundColors: ['#9AA184', '#867F7C', '#A9A19C', '#636A51' ],
     rotationSpeedMax: 500,
     rotationResistance: -100,
