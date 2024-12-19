@@ -156,87 +156,66 @@ export const props = [
     overlayImage: './img/bwa-over5.svg',
     items: [
       {
-        label: 'UELI',
+        label: 'Essaye plus tard',
       },
       {
-        label: 'DORIS',
+        label: 'Essaye encore',
       },
       {
-        label: 'MICHEL',
+        label: 'Pas d'avis',
       },
       {
-        label: 'CÉLINE',
+        label: 'C'est ton destin',
       },
       {
-        label: 'LUCIA',
+        label: 'Le sort en est jeté',
       },
       {
-        label: 'CLARISSE',
+        label: 'Une chance sur deux',
       },
       {
-        label: 'VAINIUS',
+        label: 'Repose ta question',
       },
       {
-        label: 'GONÇALO',
+        label: 'D'après moi oui',
       },
       {
-        label: 'LAURIE',
+        label: 'C'est certain',
       },
       {
-        label: 'MARTIAL',
+        label: 'Oui absolument',
       },
       {
-        label: 'LISA',
+        label: 'Tu peux compter dessus',
       },
       {
-        label: 'PAUL',
+        label: 'Sans aucun doute',
       },
       {
-        label: 'JEAN',
+        label: 'Très probable',
       },
       {
-        label: 'CLÉLIE',
+        label: 'Oui',
       },
       {
-        label: 'FILIPE',
+        label: 'C'est bien parti',
       },
       {
-        label: 'JULIE',
+        label: 'C'est non',
       },
       {
-        label: 'ROMAIN',
+        label: 'Peu probable',
       },
       {
-        label: 'MARGOT',
+        label: 'Faut pas rêver',
       },
       {
-        label: 'THIBAUD',
+        label: 'N'y compte pas',
       },
       {
-        label: 'SÉVERINE',
+        label: 'Impossible',
       },
-      {
-        label: 'FLORINE',
-      },
-      {
-        label: 'URSULA',
-      },
-      {
-        label: 'CLÉA',
-      },
-      {
-        label: 'VALENTIN',
-      },
-      {
-        label: 'CLEMENS',
-      },
-      {
-        label: 'CLAIRE',
-      },
-      {
-        label: 'JUN',
-      }
-    ],
+  ],
   },
 
 ];
